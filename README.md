@@ -130,7 +130,6 @@ You will need to use Math.random() in order to choose a random number and assign
  
 </details>
 
-![Image of cat with funny quote about dot](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRETGsssSXu2AS15GpQIBhuSgkhP2q_4JZcPopN4dFP-v85mAePGA)
 
 ---
 
